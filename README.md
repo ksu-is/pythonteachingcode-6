@@ -20,4 +20,4 @@ The projects included here include working code and some experimental code. Some
 7. Data Analytics with Jupyter and Pandas
 > COMING SOON
 8. Magically Magic 8 Ball Project
-> COMING VERY SOON
+> This project will represent the classic magic 8 ball game that takes a simple question from the user and responds with various answers, mainly corresponding with yes/no/maybe or try again later.
